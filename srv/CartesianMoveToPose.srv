@@ -1,0 +1,4 @@
+geometry_msgs/Pose[] waypoints
+---
+bool success
+float32 percentage_planned
